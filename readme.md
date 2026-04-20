@@ -13,7 +13,7 @@ Actuellement nous nous sommes arrêtés juste avant les bonnes pratiques.
 
 ## Préparer le lancement du projet
 
-Créer un fichier .env et ajouter les informations suivantes :
+Créer un fichier `.env` et ajouter les informations suivantes :
 
 ```bash
 API_KEY_GEMINI=#Your gemini key
