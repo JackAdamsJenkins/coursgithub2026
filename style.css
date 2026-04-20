@@ -1,0 +1,6 @@
+body > h1 {
+    color:blue;
+    max-width: 128px;
+    overflow: hidden;
+    display: block;
+}
